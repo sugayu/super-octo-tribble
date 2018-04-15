@@ -57,3 +57,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # User、Admin登録
 gem 'devise'
 
+# rails cを見やすくする Hirb.enableを打つことで有効化
+gem 'hirb'
+gem 'hirb-unicode'  # 2byte文字で表示がずれるのを改善してくれる
+
