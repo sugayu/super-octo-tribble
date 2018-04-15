@@ -61,3 +61,6 @@ gem 'devise'
 gem 'hirb'
 gem 'hirb-unicode'  # 2byte文字で表示がずれるのを改善してくれる
 
+#検索機能やURL作成に使用
+gem 'ransack'
+
